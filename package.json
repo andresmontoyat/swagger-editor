@@ -156,7 +156,7 @@
     "rewiremock": "^3.7.4",
     "rimraf": "^2.7.1",
     "style-loader": "0.13.0",
-    "terser-webpack-plugin": "=4.1.0",
+    "terser-webpack-plugin": "=5.3.16",
     "url-loader": "^2.3.0",
     "webpack": "^4.43.0",
     "webpack-bundle-size-analyzer": "=3.1.0",
