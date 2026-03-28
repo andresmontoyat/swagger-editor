@@ -89,7 +89,7 @@
     "redux": "^3.x.x",
     "reselect": "^4.0.0",
     "swagger-client": "^3.10.12",
-    "swagger-ui": "^3.33.0",
+    "swagger-ui": "^5.32.1",
     "traverse": "^0.6.6",
     "whatwg-fetch": "^2.0.3",
     "yaml-js": "^0.2.3"
